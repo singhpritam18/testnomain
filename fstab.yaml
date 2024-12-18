@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p134211-e1317465.adobeaemcloud.com/bin/franklin.delivery/singhpritam18/testnomain/stream19-dev"
+    url: "https://author-p134211-e13174654543545.adobeaemcloud.com/bin/franklin.delivery/singhpritam18/testnomain/stream19-dev"
     type: "markup"
     suffix: ".html"
